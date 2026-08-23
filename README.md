@@ -23,7 +23,29 @@ The code was written with AI assistance; the design, debugging, and all
 the Power BI/DAX work are mine.
 
 ---
+## The dashboard (Power BI)
 
+The pipeline feeds a three-page Power BI report. The free tier can't
+publish interactive dashboards publicly, so these are static exports —
+the .pbix opens the live version in the free Power BI Desktop app.
+
+### Value Finder
+![Value Finder](screenshots/Value_Finder.png)
+Best points-per-£m picks by position — scatter, value table, and a
+points-ceiling ranking, all driven by a position slicer.
+
+### My Squad
+![My Squad](screenshots/My_Squad.png)
+My actual GW1 team joined to the value model — total spend, projected
+points, and a suggested captain.
+
+### Predictions Portal
+![Predictions Portal](screenshots/Predictions_Portal.png)
+Predicted-vs-actual points and live model error (MAE), activating as
+2026-27 gameweeks play out.
+
+_Note: pre-season, the live tables show last-season baseline data; they
+populate with 2026-27 figures after GW1._
 ## What it does
 
 1. **Ingest** (`scripts/ingest.py`) — calls the public FPL API
