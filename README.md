@@ -8,6 +8,20 @@ picks, and next-gameweek projections.
 **Stack:** Python (ingestion + automation) · R *or* Python (modelling) ·
 GitHub Actions (scheduling) · Power BI (visualisation)
 
+## Why I built this
+
+
+I play FPL with friends every season. I know the big names, but I don't
+follow the league closely enough to spot the mid-priced value players —
+and those picks are what actually win a season. So I started digging for
+them properly, and it turned into a full project: a genuine excuse to
+practise the end-to-end analyst workflow (live data, modelling, dashboarding)
+and to get hands-on with Power BI. It stays motivated because I actually
+use it.
+
+The code was written with AI assistance; the design, debugging, and all
+the Power BI/DAX work are mine.
+
 ---
 
 ## What it does
