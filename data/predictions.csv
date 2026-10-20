@@ -1,388 +1,449 @@
 element,predicted_points,method,model_mae,web_name,team_name,position,price_m,total_points,form
-367,9.33,baseline_last3_avg,,Gakpo,Liverpool,MID,7.2,28,9.3
-426,9.0,baseline_last3_avg,,B.Fernandes,Man Utd,MID,12.0,27,9.0
-572,8.67,baseline_last3_avg,,Tzolakis,Hull City,GK,4.6,26,8.7
-399,8.33,baseline_last3_avg,,Cherki,Man City,MID,7.8,25,8.3
-279,8.33,baseline_last3_avg,,Ajayi,Hull City,DEF,4.1,25,8.3
-411,8.0,baseline_last3_avg,,Haaland,Man City,FWD,15.5,24,8.0
-586,8.0,baseline_last3_avg,,Mendy,Hull City,DEF,4.0,24,8.0
-15,8.0,baseline_last3_avg,,Ødegaard,Arsenal,MID,6.6,24,8.0
-69,8.0,baseline_last3_avg,,Scott,Bournemouth,MID,6.0,24,8.0
-379,7.67,baseline_last3_avg,,Isak,Liverpool,FWD,9.1,23,7.7
-277,7.67,baseline_last3_avg,,Egan,Hull City,DEF,4.1,23,7.7
-12,7.33,baseline_last3_avg,,Saka,Arsenal,MID,9.5,22,7.3
-8,7.33,baseline_last3_avg,,Calafiori,Arsenal,DEF,5.7,22,7.3
-330,7.33,baseline_last3_avg,,Bogle,Leeds,DEF,4.5,22,7.3
-391,7.33,baseline_last3_avg,,Gvardiol,Man City,DEF,5.6,22,7.3
-649,7.0,baseline_last3_avg,,Maitland-Niles,Everton,DEF,4.5,7,7.0
-643,7.0,baseline_last3_avg,,Chilwell,Crystal Palace,DEF,4.5,7,7.0
-165,7.0,baseline_last3_avg,,João Pedro,Chelsea,FWD,7.7,21,7.0
-229,7.0,baseline_last3_avg,,Tarkowski,Everton,DEF,6.0,21,7.0
-427,7.0,baseline_last3_avg,,Mbeumo,Man Utd,MID,7.9,21,7.0
-98,7.0,baseline_last3_avg,,Janelt,Brentford,MID,5.0,21,7.0
-115,7.0,baseline_last3_avg,,De Cuyper,Brighton,DEF,4.8,21,7.0
-154,7.0,baseline_last3_avg,,Palmer,Chelsea,MID,9.6,21,7.0
-68,7.0,baseline_last3_avg,,Tavernier,Bournemouth,MID,6.0,21,7.0
-10,6.67,baseline_last3_avg,,White,Arsenal,DEF,5.5,20,6.7
-282,6.67,baseline_last3_avg,,Giles,Hull City,DEF,4.0,20,6.7
-388,6.67,baseline_last3_avg,,Guéhi,Man City,DEF,6.0,20,6.7
-40,6.33,baseline_last3_avg,,Rogers,Chelsea,MID,7.6,19,6.3
-268,6.33,baseline_last3_avg,,King,Fulham,MID,5.5,19,6.3
-335,6.33,baseline_last3_avg,,Stach,Leeds,MID,6.0,19,6.3
-86,6.0,baseline_last3_avg,,Lewis-Potter,Brentford,MID,5.5,18,6.0
-480,6.0,baseline_last3_avg,,Gibbs-White,Nott'm Forest,MID,7.9,18,6.0
-565,6.0,baseline_last3_avg,,M.Sangaré,Brentford,MID,5.7,18,6.0
-454,6.0,baseline_last3_avg,,Elanga,Newcastle,MID,6.1,18,6.0
-504,6.0,baseline_last3_avg,,Vuskovic,Brighton,DEF,5.0,18,6.0
-544,6.0,baseline_last3_avg,,Xhaka,Sunderland,MID,5.5,18,6.0
-449,6.0,baseline_last3_avg,,Hall,Newcastle,DEF,5.1,18,6.0
-453,5.67,baseline_last3_avg,,Barnes,Newcastle,MID,6.0,17,5.7
-204,5.33,baseline_last3_avg,,Mitchell,Crystal Palace,DEF,4.5,16,5.3
-123,5.33,baseline_last3_avg,,Hinshelwood,Brighton,MID,6.0,16,5.3
-332,5.33,baseline_last3_avg,,Justin,Leeds,DEF,4.5,16,5.3
-26,5.33,baseline_last3_avg,,Havertz,Arsenal,FWD,7.5,16,5.3
-124,5.33,baseline_last3_avg,,Groß,Brighton,MID,5.5,16,5.3
-88,5.33,baseline_last3_avg,,Kayode,Brentford,DEF,4.6,16,5.3
-237,5.33,baseline_last3_avg,,Ndiaye,Man City,MID,5.9,16,5.3
-1,5.0,baseline_last3_avg,,Raya,Arsenal,GK,6.0,15,5.0
-469,5.0,baseline_last3_avg,,N.Williams,Nott'm Forest,DEF,5.0,15,5.0
-94,5.0,baseline_last3_avg,,Schade,Brentford,MID,6.0,15,5.0
-368,5.0,baseline_last3_avg,,Szoboszlai,Liverpool,MID,7.0,15,5.0
-242,5.0,baseline_last3_avg,,George,Everton,MID,5.5,15,5.0
-4,5.0,baseline_last3_avg,,Gabriel,Arsenal,DEF,8.0,15,5.0
-173,5.0,baseline_last3_avg,,Thomas,Coventry City,DEF,4.0,15,5.0
-236,5.0,baseline_last3_avg,,Dewsbury-Hall,Everton,MID,6.5,15,5.0
-385,5.0,baseline_last3_avg,,Trafford,Leeds,GK,5.0,15,5.0
-432,4.67,baseline_last3_avg,,Mainoo,Man Utd,MID,5.5,14,4.7
-428,4.67,baseline_last3_avg,,Cunha,Man Utd,MID,7.9,14,4.7
-286,4.67,baseline_last3_avg,,Belloumi,Hull City,MID,5.0,14,4.7
-334,4.67,baseline_last3_avg,,Muharemović,Leeds,DEF,5.0,14,4.7
-230,4.33,baseline_last3_avg,,Branthwaite,Everton,DEF,5.5,13,4.3
-258,4.33,baseline_last3_avg,,Castagne,Fulham,DEF,4.5,13,4.3
-542,4.33,baseline_last3_avg,,E.Le Fée,Sunderland,MID,5.9,13,4.3
-593,4.33,baseline_last3_avg,,Dedić,Newcastle,DEF,4.5,13,4.3
-397,4.33,baseline_last3_avg,,Semenyo,Man City,MID,8.4,13,4.3
-13,4.33,baseline_last3_avg,,Rice,Arsenal,MID,7.4,13,4.3
-464,4.33,baseline_last3_avg,,Wissa,Newcastle,FWD,6.2,13,4.3
-87,4.33,baseline_last3_avg,,Ajer,Brentford,DEF,4.5,13,4.3
-127,4.33,baseline_last3_avg,,Gomez,Brighton,MID,5.0,13,4.3
-553,4.33,baseline_last3_avg,,Isidor,Sunderland,FWD,5.5,13,4.3
-377,4.33,baseline_last3_avg,,Munoz,Liverpool,MID,6.5,13,4.3
-483,4.33,baseline_last3_avg,,Ndoye,Nott'm Forest,MID,5.5,13,4.3
-472,4.33,baseline_last3_avg,,Murillo,Nott'm Forest,DEF,5.5,13,4.3
-533,4.33,baseline_last3_avg,,Mukiele,Sunderland,DEF,5.5,13,4.3
-471,4.0,baseline_last3_avg,,Milenković,Nott'm Forest,DEF,5.5,12,4.0
-249,4.0,baseline_last3_avg,,Barry,Everton,FWD,5.6,12,4.0
-11,4.0,baseline_last3_avg,,Mosquera,Arsenal,DEF,5.4,12,4.0
-280,4.0,baseline_last3_avg,,Coyle,Hull City,DEF,4.0,12,4.0
-597,4.0,baseline_last3_avg,,Suzuki,Aston Villa,GK,5.0,12,4.0
-327,4.0,baseline_last3_avg,,Bijol,Leeds,DEF,5.0,12,4.0
-532,4.0,baseline_last3_avg,,Ballard,Sunderland,DEF,4.9,12,4.0
-96,4.0,baseline_last3_avg,,Damsgaard,Brentford,MID,5.5,12,4.0
-316,4.0,baseline_last3_avg,,Emersonn,Ipswich Town,FWD,5.5,12,4.0
-570,3.67,baseline_last3_avg,,Palacios,Fulham,MID,5.5,11,3.7
-591,3.67,baseline_last3_avg,,Enciso,Ipswich Town,MID,5.5,11,3.7
-398,3.67,baseline_last3_avg,,Foden,Man City,MID,7.0,11,3.7
-290,3.67,baseline_last3_avg,,Slater,Hull City,MID,4.5,11,3.7
-233,3.67,baseline_last3_avg,,Mykolenko,Everton,DEF,4.5,11,3.7
-226,3.67,baseline_last3_avg,,Pickford,Everton,GK,5.5,11,3.7
-605,3.67,baseline_last3_avg,,Yalcouyé,Brighton,MID,4.5,11,3.7
-82,3.67,baseline_last3_avg,,Kelleher,Brentford,GK,5.0,11,3.7
-460,3.67,baseline_last3_avg,,Willock,Newcastle,MID,5.0,11,3.7
-557,3.67,baseline_last3_avg,,Tzolis,Arsenal,MID,6.4,11,3.7
-79,3.67,baseline_last3_avg,,Evanilson,Bournemouth,FWD,6.0,11,3.7
-211,3.67,baseline_last3_avg,,Yeremy,Crystal Palace,MID,5.5,11,3.7
-244,3.67,baseline_last3_avg,,Armstrong,Everton,MID,5.0,11,3.7
-569,3.33,baseline_last3_avg,,Gonzalo,Fulham,FWD,6.0,10,3.3
-84,3.33,baseline_last3_avg,,Collins,Brentford,DEF,5.5,10,3.3
-567,3.33,baseline_last3_avg,,Horníček,Newcastle,GK,5.0,10,3.3
-214,3.33,baseline_last3_avg,,Kamada,Crystal Palace,MID,5.0,10,3.3
-346,3.33,baseline_last3_avg,,Calvert-Lewin,Leeds,FWD,6.0,10,3.3
-350,3.33,baseline_last3_avg,,A.Becker,Liverpool,GK,5.5,10,3.3
-551,3.33,baseline_last3_avg,,N.Angulo,Sunderland,MID,5.0,10,3.3
-112,3.33,baseline_last3_avg,,Van Hecke,Spurs,DEF,4.9,10,3.3
-384,3.33,baseline_last3_avg,,Donnarumma,Man City,GK,5.5,10,3.3
-390,3.33,baseline_last3_avg,,Rúben,Man City,DEF,5.5,10,3.3
-116,3.33,baseline_last3_avg,,Dunk,Brighton,DEF,4.5,10,3.3
-474,3.33,baseline_last3_avg,,Jair Cunha,Nott'm Forest,DEF,4.5,10,3.3
-156,3.33,baseline_last3_avg,,Neto,Chelsea,MID,6.5,10,3.3
-503,3.0,baseline_last3_avg,,Van de Ven,Spurs,DEF,5.0,9,3.0
-536,3.0,baseline_last3_avg,,Reinildo,Sunderland,DEF,4.5,9,3.0
-455,3.0,baseline_last3_avg,,Tonali,Spurs,MID,5.4,9,3.0
-366,3.0,baseline_last3_avg,,Wirtz,Liverpool,MID,7.4,9,3.0
-467,3.0,baseline_last3_avg,,Sels,Nott'm Forest,GK,5.0,9,3.0
-109,3.0,baseline_last3_avg,,Verbruggen,Brighton,GK,4.5,9,3.0
-393,3.0,baseline_last3_avg,,Khusanov,Man City,DEF,5.5,9,3.0
-496,3.0,baseline_last3_avg,,Kinsky,Spurs,GK,4.5,9,3.0
-529,3.0,baseline_last3_avg,,Roefs,Sunderland,GK,5.0,9,3.0
-200,3.0,baseline_last3_avg,,Lacroix,Chelsea,DEF,6.0,9,3.0
-362,3.0,baseline_last3_avg,,Jacquet,Liverpool,DEF,5.0,9,3.0
-338,3.0,baseline_last3_avg,,Ampadu,Leeds,MID,5.5,9,3.0
-356,3.0,baseline_last3_avg,,Virgil,Liverpool,DEF,6.5,9,3.0
-534,3.0,baseline_last3_avg,,Hume,Sunderland,DEF,4.5,9,3.0
-541,3.0,baseline_last3_avg,,Meunier,Sunderland,DEF,4.5,9,3.0
-579,3.0,baseline_last3_avg,,Araujo,Liverpool,DEF,5.4,9,3.0
-447,3.0,baseline_last3_avg,,Botman,Newcastle,DEF,5.0,9,3.0
-161,3.0,baseline_last3_avg,,Lavia,Chelsea,MID,5.0,9,3.0
-305,3.0,baseline_last3_avg,,Davis,Ipswich Town,DEF,4.0,9,3.0
-43,2.67,baseline_last3_avg,,Tielemans,Man Utd,MID,5.9,8,2.7
-36,2.67,baseline_last3_avg,,Maatsen,Aston Villa,DEF,4.5,8,2.7
-148,2.67,baseline_last3_avg,,Hato,Chelsea,DEF,4.5,8,2.7
-138,2.67,baseline_last3_avg,,Kostoulas,Brighton,FWD,5.5,8,2.7
-459,2.67,baseline_last3_avg,,L.Miley,Newcastle,MID,5.5,8,2.7
-558,2.67,baseline_last3_avg,,Schlager,Nott'm Forest,MID,5.0,8,2.7
-445,2.67,baseline_last3_avg,,Thiaw,Newcastle,DEF,5.0,8,2.7
-315,2.67,baseline_last3_avg,,Fatawu,Ipswich Town,MID,5.5,8,2.7
-313,2.67,baseline_last3_avg,,Clarke,Ipswich Town,MID,5.5,8,2.7
-481,2.67,baseline_last3_avg,,Anderson,Man City,MID,6.3,8,2.7
-210,2.67,baseline_last3_avg,,Wharton,Crystal Palace,MID,5.5,8,2.7
-295,2.67,baseline_last3_avg,,McBurnie,Hull City,FWD,5.5,8,2.7
-516,2.67,baseline_last3_avg,,Bentancur,Spurs,MID,5.5,8,2.7
-267,2.67,baseline_last3_avg,,Lukić,Ipswich Town,MID,5.0,8,2.7
-499,2.67,baseline_last3_avg,,Pedro Porro,Spurs,DEF,5.5,8,2.7
-247,2.67,baseline_last3_avg,,Hackney,Everton,MID,5.5,8,2.7
-7,2.67,baseline_last3_avg,,Lewis-Skelly,Arsenal,MID,5.5,8,2.7
-619,2.5,baseline_last3_avg,,Palacios,Ipswich Town,MID,5.0,5,2.5
-423,2.33,baseline_last3_avg,,Shaw,Man Utd,DEF,4.4,7,2.3
-264,2.33,baseline_last3_avg,,Bobb,Fulham,MID,5.5,7,2.3
-259,2.33,baseline_last3_avg,,Diop,Ipswich Town,DEF,4.0,7,2.3
-506,2.33,baseline_last3_avg,,Udogie,Spurs,DEF,4.5,7,2.3
-514,2.33,baseline_last3_avg,,Tel,Spurs,MID,5.9,7,2.3
-304,2.33,baseline_last3_avg,,O'Shea,Ipswich Town,DEF,4.0,7,2.3
-224,2.33,baseline_last3_avg,,Nketiah,Crystal Palace,FWD,5.5,7,2.3
-486,2.33,baseline_last3_avg,,McAtee,Nott'm Forest,MID,5.5,7,2.3
-32,2.33,baseline_last3_avg,,Cash,Aston Villa,DEF,4.5,7,2.3
-418,2.33,baseline_last3_avg,,Maguire,Man Utd,DEF,4.9,7,2.3
-41,2.33,baseline_last3_avg,,Buendía,Aston Villa,MID,5.9,7,2.3
-33,2.33,baseline_last3_avg,,Mings,Aston Villa,DEF,4.5,7,2.3
-566,2.33,baseline_last3_avg,,Silva,Bournemouth,DEF,5.0,7,2.3
-371,2.33,baseline_last3_avg,,Gravenberch,Liverpool,MID,5.9,7,2.3
-439,2.33,baseline_last3_avg,,Šeško,Man Utd,FWD,7.0,7,2.3
-130,2.33,baseline_last3_avg,,Wieffer,Brighton,DEF,5.0,7,2.3
-114,2.33,baseline_last3_avg,,Boscagli,Brighton,DEF,4.5,7,2.3
-456,2.33,baseline_last3_avg,,J.Ramsey,Newcastle,MID,4.9,7,2.3
-329,2.33,baseline_last3_avg,,Rodon,Leeds,DEF,4.4,7,2.3
-71,2.33,baseline_last3_avg,,Cook,Bournemouth,MID,5.0,7,2.3
-70,2.33,baseline_last3_avg,,Kluivert,Bournemouth,MID,6.0,7,2.3
-47,2.33,baseline_last3_avg,,Kamara,Aston Villa,MID,5.0,7,2.3
-46,2.33,baseline_last3_avg,,Barkley,Aston Villa,MID,5.0,7,2.3
-51,2.33,baseline_last3_avg,,George Hemmings,Aston Villa,MID,4.5,7,2.3
-552,2.0,baseline_last3_avg,,Brobbey,Sunderland,FWD,5.9,6,2.0
-562,2.0,baseline_last3_avg,,Maeda,Ipswich Town,MID,5.4,6,2.0
-345,2.0,baseline_last3_avg,,Tanaka,Leeds,MID,4.9,6,2.0
-358,2.0,baseline_last3_avg,,Kerkez,Liverpool,DEF,5.4,6,2.0
-57,2.0,baseline_last3_avg,,Petrović,Bournemouth,GK,4.5,6,2.0
-588,2.0,baseline_last3_avg,,Khalaili,Crystal Palace,DEF,5.0,6,2.0
-37,2.0,baseline_last3_avg,,Lindelöf,Aston Villa,DEF,4.5,6,2.0
-60,2.0,baseline_last3_avg,,Hill,Bournemouth,DEF,5.5,6,2.0
-67,2.0,baseline_last3_avg,,Rayan,Bournemouth,MID,6.4,6,2.0
-576,2.0,baseline_last3_avg,,Stroud,Hull City,MID,5.0,6,2.0
-73,2.0,baseline_last3_avg,,Adams,Bournemouth,MID,5.0,6,2.0
-309,2.0,baseline_last3_avg,,Núñez,Ipswich Town,MID,5.0,6,2.0
-473,2.0,baseline_last3_avg,,Aina,Nott'm Forest,DEF,4.5,6,2.0
-336,2.0,baseline_last3_avg,,Okafor,Leeds,MID,5.9,6,2.0
-97,2.0,baseline_last3_avg,,Jensen,Brentford,MID,5.5,6,2.0
-564,2.0,baseline_last3_avg,,Scherpen,Ipswich Town,GK,4.5,6,2.0
-250,2.0,baseline_last3_avg,,Leno,Fulham,GK,4.5,6,2.0
-246,2.0,baseline_last3_avg,,Röhl,Everton,MID,5.0,6,2.0
-261,2.0,baseline_last3_avg,,Iwobi,Fulham,MID,5.5,6,2.0
-184,2.0,baseline_last3_avg,,Grimes,Coventry City,MID,5.0,6,2.0
-183,2.0,baseline_last3_avg,,Rudoni,Coventry City,MID,5.0,6,2.0
-175,2.0,baseline_last3_avg,,van Ewijk,Coventry City,DEF,4.0,6,2.0
-320,2.0,baseline_last3_avg,,Akpom,Ipswich Town,FWD,5.0,6,2.0
-287,2.0,baseline_last3_avg,,Millar,Hull City,MID,5.0,6,2.0
-502,2.0,baseline_last3_avg,,Robertson,Spurs,DEF,4.5,6,2.0
-644,2.0,baseline_last3_avg,,Timber,Crystal Palace,MID,5.0,2,2.0
-545,2.0,baseline_last3_avg,,Sadiki,Sunderland,MID,5.0,6,2.0
-429,2.0,baseline_last3_avg,,Rashford,Man Utd,MID,7.0,6,2.0
-347,1.67,baseline_last3_avg,,Nmecha,Leeds,FWD,5.4,5,1.7
-176,1.67,baseline_last3_avg,,Dasilva,Coventry City,DEF,4.0,5,1.7
-198,1.67,baseline_last3_avg,,Henderson,Crystal Palace,GK,5.0,5,1.7
-492,1.67,baseline_last3_avg,,Awoniyi,Coventry City,FWD,5.5,5,1.7
-543,1.67,baseline_last3_avg,,Diarra,Sunderland,MID,5.4,5,1.7
-265,1.67,baseline_last3_avg,,Berge,Fulham,MID,5.0,5,1.7
-61,1.67,baseline_last3_avg,,Truffert,Bournemouth,DEF,5.5,5,1.7
-337,1.67,baseline_last3_avg,,Aaronson,Leeds,MID,5.4,5,1.7
-412,1.67,baseline_last3_avg,,Lammens,Man Utd,GK,5.0,5,1.7
-575,1.67,baseline_last3_avg,,Yirenkyi,Coventry City,MID,4.9,5,1.7
-151,1.67,baseline_last3_avg,,Acheampong,Chelsea,DEF,4.5,5,1.7
-125,1.67,baseline_last3_avg,,Georginio,Brighton,FWD,5.5,5,1.7
-372,1.67,baseline_last3_avg,,Mac Allister,Liverpool,MID,5.4,5,1.7
-95,1.67,baseline_last3_avg,,O.Dango,Brentford,MID,6.4,5,1.7
-110,1.67,baseline_last3_avg,,Rushworth,Coventry City,GK,4.5,5,1.7
-28,1.67,baseline_last3_avg,,Martinez,Chelsea,GK,5.0,5,1.7
-598,1.67,baseline_last3_avg,,Elvedi,Leeds,DEF,4.5,5,1.7
-31,1.67,baseline_last3_avg,,Konsa,Arsenal,DEF,4.4,5,1.7
-45,1.67,baseline_last3_avg,,McGinn,Aston Villa,MID,5.4,5,1.7
-387,1.33,baseline_last3_avg,,O'Reilly,Man City,DEF,6.5,4,1.3
-405,1.33,baseline_last3_avg,,N.Gonzalez,Newcastle,MID,5.5,4,1.3
-417,1.33,baseline_last3_avg,,Dalot,Man Utd,DEF,4.9,4,1.3
-465,1.33,baseline_last3_avg,,Osula,Newcastle,FWD,5.9,4,1.3
-91,1.33,baseline_last3_avg,,Pinnock,Coventry City,DEF,4.5,4,1.3
-105,1.33,baseline_last3_avg,,Anthony,Brentford,MID,6.0,4,1.3
-419,1.33,baseline_last3_avg,,Martinez,Man Utd,DEF,5.0,4,1.3
-401,1.33,baseline_last3_avg,,Marmoush,Spurs,FWD,7.0,4,1.3
-580,1.33,baseline_last3_avg,,Charles,Fulham,MID,5.0,4,1.3
-106,1.33,baseline_last3_avg,,Thiago,Brentford,FWD,7.9,4,1.3
-129,1.33,baseline_last3_avg,,Ayari,Brighton,MID,5.4,4,1.3
-93,1.33,baseline_last3_avg,,Schuster,Brentford,DEF,4.5,4,1.3
-239,1.33,baseline_last3_avg,,Garner,Everton,MID,6.0,4,1.3
-260,1.33,baseline_last3_avg,,Wilson,Leeds,MID,6.4,4,1.3
-254,1.33,baseline_last3_avg,,Robinson,Fulham,DEF,4.5,4,1.3
-222,1.33,baseline_last3_avg,,Strand Larsen,Crystal Palace,FWD,6.0,4,1.3
-194,1.33,baseline_last3_avg,,Thomas-Asante,Coventry City,FWD,5.0,4,1.3
-190,1.33,baseline_last3_avg,,Tchaouna,Coventry City,MID,5.5,4,1.3
-104,1.33,baseline_last3_avg,,Onyeka,Coventry City,MID,4.9,4,1.3
-491,1.33,baseline_last3_avg,,Igor Jesus,Nott'm Forest,FWD,5.9,4,1.3
-522,1.33,baseline_last3_avg,,Gray,Spurs,MID,5.0,4,1.3
-166,1.33,baseline_last3_avg,,N.Jackson,Aston Villa,FWD,6.5,4,1.3
-155,1.33,baseline_last3_avg,,Enzo,Man City,MID,6.9,4,1.3
-153,1.33,baseline_last3_avg,,Disasi,Crystal Palace,DEF,4.5,4,1.3
-162,1.33,baseline_last3_avg,,Andrey Santos,Man Utd,MID,4.9,4,1.3
-182,1.33,baseline_last3_avg,,Amenda,Coventry City,DEF,4.0,4,1.3
-463,1.33,baseline_last3_avg,,Woltemade,Newcastle,FWD,5.9,4,1.3
-202,1.33,baseline_last3_avg,,Richards,Crystal Palace,DEF,5.0,4,1.3
-160,1.0,baseline_last3_avg,,Garnacho,Aston Villa,MID,5.9,3,1.0
-462,1.0,baseline_last3_avg,,Steur,Newcastle,MID,4.9,3,1.0
-167,1.0,baseline_last3_avg,,Delap,Nott'm Forest,FWD,5.5,3,1.0
-323,1.0,baseline_last3_avg,,McAteer,Ipswich Town,MID,4.5,3,1.0
-525,1.0,baseline_last3_avg,,Fernandes,Spurs,MID,5.9,3,1.0
-186,1.0,baseline_last3_avg,,Mason-Clark,Coventry City,MID,5.4,3,1.0
-255,1.0,baseline_last3_avg,,J.Cuenca,Fulham,DEF,4.5,3,1.0
-635,1.0,baseline_last3_avg,,Larsson,Fulham,MID,5.0,1,1.0
-269,1.0,baseline_last3_avg,,Sessegnon,Fulham,DEF,4.5,3,1.0
-241,1.0,baseline_last3_avg,,McNeil,Crystal Palace,MID,5.4,3,1.0
-498,1.0,baseline_last3_avg,,Senesi,Spurs,DEF,5.9,3,1.0
-627,1.0,baseline_last3_avg,,Barcola,Liverpool,MID,8.0,1,1.0
-611,1.0,baseline_last3_avg,,Wan-Bissaka,Aston Villa,DEF,4.5,2,1.0
-616,1.0,baseline_last3_avg,,Bouaddi,Man City,MID,5.5,2,1.0
-422,1.0,baseline_last3_avg,,Mazraoui,Man Utd,DEF,4.5,3,1.0
-617,1.0,baseline_last3_avg,,Cho,Hull City,MID,5.0,2,1.0
-19,1.0,baseline_last3_avg,,Zubimendi,Arsenal,MID,5.4,3,1.0
-592,1.0,baseline_last3_avg,,Ouattara,Ipswich Town,DEF,4.0,3,1.0
-589,1.0,baseline_last3_avg,,Gourna-Douath,Hull City,MID,5.0,3,1.0
-403,1.0,baseline_last3_avg,,Sávio,Spurs,MID,6.5,3,1.0
-585,1.0,baseline_last3_avg,,Herrington,Hull City,DEF,4.0,3,1.0
-584,1.0,baseline_last3_avg,,Hamer,Coventry City,MID,5.4,3,1.0
-640,1.0,baseline_last3_avg,,Flemming,Ipswich Town,FWD,5.5,1,1.0
-646,1.0,baseline_last3_avg,,Fofana,Sunderland,MID,5.5,1,1.0
-642,1.0,baseline_last3_avg,,Thomas,Hull City,MID,5.5,1,1.0
-634,1.0,baseline_last3_avg,,Fernandez-Pardo,Newcastle,FWD,6.0,1,1.0
-583,1.0,baseline_last3_avg,,Chavarria,Chelsea,DEF,4.9,3,1.0
-108,1.0,baseline_last3_avg,,Wilson,Brentford,FWD,5.5,3,1.0
-90,1.0,baseline_last3_avg,,Hickey,Brentford,DEF,4.5,3,1.0
-647,1.0,baseline_last3_avg,,Osorio,Crystal Palace,MID,5.5,1,1.0
-638,1.0,baseline_last3_avg,,Norton-Cuffy,Hull City,DEF,4.0,1,1.0
-621,1.0,baseline_last3_avg,,McAidoo,Man City,MID,4.5,2,1.0
-209,1.0,baseline_last3_avg,,Johnson,Everton,MID,5.9,3,1.0
-195,1.0,baseline_last3_avg,,Simms,Coventry City,FWD,5.0,3,1.0
-523,1.0,baseline_last3_avg,,Moore,Spurs,MID,5.0,3,1.0
-519,1.0,baseline_last3_avg,,Gallagher,Spurs,MID,5.4,3,1.0
-526,1.0,baseline_last3_avg,,Solanke,Spurs,FWD,5.9,3,1.0
-257,1.0,baseline_last3_avg,,Bassey,Fulham,DEF,4.5,3,1.0
-145,1.0,baseline_last3_avg,,Fofana,Chelsea,DEF,5.0,3,1.0
-144,1.0,baseline_last3_avg,,Gusto,Chelsea,DEF,5.0,3,1.0
-369,1.0,baseline_last3_avg,,Ngumoha,Liverpool,MID,5.8,3,1.0
-577,0.67,baseline_last3_avg,,Tomiyasu,Crystal Palace,DEF,4.5,2,0.7
-52,0.67,baseline_last3_avg,,Alysson,Aston Villa,MID,5.0,2,0.7
-56,0.67,baseline_last3_avg,,Abraham,Aston Villa,FWD,5.5,2,0.7
-64,0.67,baseline_last3_avg,,Smith,Bournemouth,DEF,4.5,2,0.7
-72,0.67,baseline_last3_avg,,Gannon-Doak,Bournemouth,MID,4.9,2,0.7
-42,0.67,baseline_last3_avg,,Guessand,Crystal Palace,MID,5.5,2,0.7
-34,0.67,baseline_last3_avg,,Pau,Aston Villa,DEF,4.5,2,0.7
-262,0.67,baseline_last3_avg,,Smith Rowe,Fulham,MID,5.4,2,0.7
-263,0.67,baseline_last3_avg,,Kevin,Fulham,MID,5.4,2,0.7
-14,0.67,baseline_last3_avg,,Eze,Arsenal,MID,6.4,2,0.7
-271,0.67,baseline_last3_avg,,Muniz,Fulham,FWD,5.4,2,0.7
-488,0.67,baseline_last3_avg,,I.Sangaré,Nott'm Forest,MID,4.9,2,0.7
-248,0.67,baseline_last3_avg,,Beto,Everton,FWD,5.4,2,0.7
-253,0.67,baseline_last3_avg,,Andersen,Fulham,DEF,5.0,2,0.7
-501,0.67,baseline_last3_avg,,Danso,Sunderland,DEF,5.0,2,0.7
-238,0.67,baseline_last3_avg,,Grealish,Everton,MID,6.5,2,0.7
-512,0.67,baseline_last3_avg,,Kudus,Spurs,MID,6.5,2,0.7
-608,0.67,baseline_last3_avg,,Jebbison,Bournemouth,FWD,5.0,2,0.7
-420,0.67,baseline_last3_avg,,Yoro,Man Utd,DEF,4.9,2,0.7
-9,0.67,baseline_last3_avg,,Hincapie,Arsenal,DEF,5.3,2,0.7
-74,0.67,baseline_last3_avg,,Brooks,Bournemouth,MID,5.0,2,0.7
-406,0.67,baseline_last3_avg,,Kovačić,Man City,MID,5.4,2,0.7
-596,0.67,baseline_last3_avg,,Ruggeri,Aston Villa,DEF,4.5,2,0.7
-600,0.67,baseline_last3_avg,,Osman,Brighton,MID,5.0,2,0.7
-17,0.67,baseline_last3_avg,,Merino,Arsenal,MID,5.9,2,0.7
-16,0.67,baseline_last3_avg,,Madueke,Arsenal,MID,6.3,2,0.7
-102,0.67,baseline_last3_avg,,Yarmoliuk,Brentford,MID,4.9,2,0.7
-140,0.67,baseline_last3_avg,,Sánchez,Chelsea,GK,4.9,2,0.7
-478,0.67,baseline_last3_avg,,Netz,Nott'm Forest,DEF,4.5,2,0.7
-203,0.67,baseline_last3_avg,,Canvot,Crystal Palace,DEF,4.9,2,0.7
-289,0.67,baseline_last3_avg,,Crooks,Hull City,MID,4.5,2,0.7
-157,0.67,baseline_last3_avg,,Estêvão,Chelsea,MID,6.4,2,0.7
-188,0.67,baseline_last3_avg,,Torp,Coventry City,MID,5.4,2,0.7
-281,0.67,baseline_last3_avg,,Drameh,Hull City,DEF,4.0,2,0.7
-207,0.67,baseline_last3_avg,,Mingueza,Crystal Palace,DEF,4.4,2,0.7
-223,0.67,baseline_last3_avg,,Mateta,Crystal Palace,FWD,6.4,2,0.7
-490,0.67,baseline_last3_avg,,Wood,Nott'm Forest,FWD,5.9,2,0.7
-527,0.67,baseline_last3_avg,,Richarlison,Spurs,FWD,5.9,2,0.7
-306,0.67,baseline_last3_avg,,Greaves,Ipswich Town,DEF,4.0,2,0.7
-457,0.67,baseline_last3_avg,,J.Murphy,Newcastle,MID,5.9,2,0.7
-548,0.67,baseline_last3_avg,,Rigg,Sunderland,MID,4.9,2,0.7
-113,0.67,baseline_last3_avg,,F.Kadıoğlu,Brighton,DEF,4.4,2,0.7
-415,0.67,baseline_last3_avg,,Dorgu,Man Utd,MID,5.8,2,0.7
-381,0.67,baseline_last3_avg,,Koumas,Liverpool,MID,5.0,2,0.7
-142,0.67,baseline_last3_avg,,James,Chelsea,DEF,5.4,2,0.7
-331,0.67,baseline_last3_avg,,Gudmundsson,Leeds,DEF,4.5,2,0.7
-119,0.67,baseline_last3_avg,,Costinha,Brighton,DEF,4.5,2,0.7
-75,0.67,baseline_last3_avg,,Christie,Bournemouth,MID,5.0,2,0.7
-375,0.67,baseline_last3_avg,,Nyoni,Liverpool,MID,4.9,2,0.7
-622,0.5,baseline_last3_avg,,Braithwaite,Man City,DEF,4.0,1,0.5
-547,0.33,baseline_last3_avg,,Mundle,Sunderland,MID,4.9,1,0.3
-185,0.33,baseline_last3_avg,,Sakamoto,Coventry City,MID,4.9,1,0.3
-159,0.33,baseline_last3_avg,,Caicedo,Chelsea,MID,5.4,1,0.3
-308,0.33,baseline_last3_avg,,Furlong,Ipswich Town,DEF,4.0,1,0.3
-164,0.33,baseline_last3_avg,,Quenda,Chelsea,MID,5.4,1,0.3
-243,0.33,baseline_last3_avg,,Alcaraz,Everton,MID,5.0,1,0.3
-487,0.33,baseline_last3_avg,,Dominguez,Nott'm Forest,MID,4.9,1,0.3
-421,0.33,baseline_last3_avg,,Heaven,Man Utd,DEF,4.4,1,0.3
-595,0.33,baseline_last3_avg,,Gozo,Crystal Palace,MID,5.0,1,0.3
-240,0.33,baseline_last3_avg,,Iroegbunam,Hull City,MID,5.0,1,0.3
-539,0.33,baseline_last3_avg,,O'Nien,Sunderland,DEF,4.0,1,0.3
-535,0.33,baseline_last3_avg,,Alderete,Sunderland,DEF,4.9,1,0.3
-321,0.33,baseline_last3_avg,,Walle Egeli,Ipswich Town,FWD,4.5,1,0.3
-206,0.33,baseline_last3_avg,,Chadi Riad,Crystal Palace,DEF,4.4,1,0.3
-285,0.33,baseline_last3_avg,,McNair,Hull City,DEF,4.0,1,0.3
-212,0.33,baseline_last3_avg,,Hughes,Crystal Palace,MID,4.5,1,0.3
-520,0.33,baseline_last3_avg,,Bergvall,Spurs,MID,5.4,1,0.3
-482,0.33,baseline_last3_avg,,Hudson-Odoi,Nott'm Forest,MID,5.9,1,0.3
-515,0.33,baseline_last3_avg,,Maddison,Spurs,MID,6.4,1,0.3
-201,0.33,baseline_last3_avg,,Muñoz,Nott'm Forest,DEF,5.4,1,0.3
-493,0.33,baseline_last3_avg,,Kalimuendo,Nott'm Forest,FWD,5.4,1,0.3
-396,0.33,baseline_last3_avg,,Vitor Reis,Man City,DEF,4.5,1,0.3
-574,0.33,baseline_last3_avg,,Hjertø-Dahl,Hull City,MID,4.9,1,0.3
-89,0.33,baseline_last3_avg,,Henry,Brentford,DEF,4.5,1,0.3
-563,0.33,baseline_last3_avg,,Morita,Hull City,MID,5.0,1,0.3
-452,0.33,baseline_last3_avg,,Bruno G.,Arsenal,MID,6.8,1,0.3
-339,0.33,baseline_last3_avg,,Longstaff,Leeds,MID,4.9,1,0.3
-568,0.33,baseline_last3_avg,,Barco,Chelsea,MID,5.5,1,0.3
-435,0.33,baseline_last3_avg,,Lacey,Man Utd,MID,4.9,1,0.3
-461,0.33,baseline_last3_avg,,Touré,Newcastle,MID,5.9,1,0.3
-556,0.33,baseline_last3_avg,,Targett,Hull City,DEF,4.0,1,0.3
-135,0.33,baseline_last3_avg,,Yohanna,Brighton,MID,4.9,1,0.3
-559,0.33,baseline_last3_avg,,Bamba,Newcastle,MID,4.9,1,0.3
-364,0.33,baseline_last3_avg,,Tsimikas,Liverpool,DEF,4.9,1,0.3
-450,0.33,baseline_last3_avg,,Livramento,Newcastle,DEF,4.9,1,0.3
-357,0.33,baseline_last3_avg,,Frimpong,Liverpool,DEF,5.4,1,0.3
-343,0.33,baseline_last3_avg,,James,Leeds,MID,5.0,1,0.3
-328,0.33,baseline_last3_avg,,Struijk,Brighton,DEF,5.0,1,0.3
-549,0.33,baseline_last3_avg,,Talbi,Sunderland,MID,5.4,1,0.3
-149,0.33,baseline_last3_avg,,Colwill,Chelsea,DEF,4.9,1,0.3
-136,0.33,baseline_last3_avg,,Welbeck,Chelsea,FWD,5.9,1,0.3
-395,0.33,baseline_last3_avg,,Lewis,Man City,DEF,4.5,1,0.3
-76,0.33,baseline_last3_avg,,Tóth.A,Bournemouth,MID,5.0,1,0.3
-389,0.33,baseline_last3_avg,,Matheus N.,Man City,DEF,5.9,1,0.3
-578,0.33,baseline_last3_avg,,Mudryk,Spurs,MID,5.4,1,0.3
-594,0.33,baseline_last3_avg,,David,Brighton,FWD,6.0,1,0.3
-581,0.33,baseline_last3_avg,,Diomande,Nott'm Forest,DEF,5.4,1,0.3
-81,0.33,baseline_last3_avg,,Rodríguez,Bournemouth,FWD,6.0,1,0.3
-446,0.33,baseline_last3_avg,,Schär,Newcastle,DEF,5.0,1,0.3
-29,0.33,baseline_last3_avg,,M.Bizot,Aston Villa,GK,4.5,1,0.3
-35,0.33,baseline_last3_avg,,Bogarde,Aston Villa,MID,5.0,1,0.3
-25,0.33,baseline_last3_avg,,Gyökeres,Arsenal,FWD,7.3,1,0.3
-54,-0.67,baseline_last3_avg,,Gomes,Aston Villa,MID,5.5,-2,-0.7
+411,10.12,hist_gradient_boosting,1.77,Haaland,Man City,FWD,15.7,58,8.3
+129,9.2,hist_gradient_boosting,1.77,Ayari,Brighton,MID,5.4,31,8.0
+79,9.17,hist_gradient_boosting,1.77,Evanilson,Bournemouth,FWD,6.1,37,7.0
+138,9.12,hist_gradient_boosting,1.77,Kostoulas,Brighton,FWD,5.7,41,6.5
+4,8.64,hist_gradient_boosting,1.77,Gabriel,Arsenal,DEF,7.9,35,5.0
+13,7.58,hist_gradient_boosting,1.77,Rice,Arsenal,MID,7.3,36,8.0
+504,7.21,hist_gradient_boosting,1.77,Vuskovic,Brighton,DEF,5.1,51,9.5
+1,7.12,hist_gradient_boosting,1.77,Raya,Arsenal,GK,6.1,42,6.0
+261,6.96,hist_gradient_boosting,1.77,Iwobi,Fulham,MID,5.4,29,6.7
+53,6.91,hist_gradient_boosting,1.77,Manzambi,Aston Villa,MID,6.0,30,8.0
+346,6.75,hist_gradient_boosting,1.77,Calvert-Lewin,Leeds,FWD,6.0,33,4.3
+68,6.56,hist_gradient_boosting,1.77,Tavernier,Bournemouth,MID,6.2,42,4.3
+156,6.54,hist_gradient_boosting,1.77,Neto,Chelsea,MID,6.5,34,10.0
+627,6.51,hist_gradient_boosting,1.77,Barcola,Liverpool,MID,8.0,13,3.0
+31,6.44,hist_gradient_boosting,1.77,Konsa,Arsenal,DEF,4.6,25,6.5
+8,6.36,hist_gradient_boosting,1.77,Calafiori,Arsenal,DEF,6.0,44,7.5
+115,6.33,hist_gradient_boosting,1.77,De Cuyper,Brighton,DEF,5.3,59,10.5
+379,6.03,hist_gradient_boosting,1.77,Isak,Liverpool,FWD,9.0,42,5.7
+427,5.89,hist_gradient_boosting,1.77,Mbeumo,Man Utd,MID,7.8,41,6.0
+37,5.86,hist_gradient_boosting,1.77,Lindelöf,Aston Villa,DEF,4.5,20,6.0
+400,5.61,hist_gradient_boosting,1.77,Doku,Man City,MID,7.5,19,6.3
+377,5.61,hist_gradient_boosting,1.77,Munoz,Liverpool,MID,6.5,26,4.0
+114,5.3,hist_gradient_boosting,1.77,Boscagli,Brighton,DEF,4.5,34,7.5
+127,5.14,hist_gradient_boosting,1.77,Gomez,Brighton,MID,5.0,37,6.5
+254,5.07,hist_gradient_boosting,1.77,Robinson,Fulham,DEF,4.4,19,3.0
+113,5.02,hist_gradient_boosting,1.77,F.Kadıoğlu,Brighton,DEF,4.4,28,7.5
+33,4.89,hist_gradient_boosting,1.77,Mings,Aston Villa,DEF,4.5,18,4.0
+566,4.88,hist_gradient_boosting,1.77,Silva,Bournemouth,DEF,5.0,21,3.7
+61,4.81,hist_gradient_boosting,1.77,Truffert,Bournemouth,DEF,5.4,15,2.3
+334,4.78,hist_gradient_boosting,1.77,Muharemović,Leeds,DEF,5.0,34,4.3
+597,4.72,hist_gradient_boosting,1.77,Suzuki,Aston Villa,GK,5.0,26,5.0
+526,4.7,hist_gradient_boosting,1.77,Solanke,Spurs,FWD,5.8,18,5.5
+57,4.63,hist_gradient_boosting,1.77,Petrović,Bournemouth,GK,4.5,15,2.7
+87,4.55,hist_gradient_boosting,1.77,Ajer,Brentford,DEF,4.5,30,4.5
+109,4.54,hist_gradient_boosting,1.77,Verbruggen,Brighton,GK,4.6,38,7.5
+149,4.37,hist_gradient_boosting,1.77,Colwill,Chelsea,DEF,4.8,11,4.0
+265,4.26,hist_gradient_boosting,1.77,Berge,Fulham,MID,4.9,18,3.3
+401,4.25,hist_gradient_boosting,1.77,Marmoush,Spurs,FWD,7.0,18,5.0
+447,4.22,hist_gradient_boosting,1.77,Botman,Newcastle,DEF,5.0,26,5.5
+362,4.22,hist_gradient_boosting,1.77,Jacquet,Liverpool,DEF,5.0,30,4.0
+257,4.2,hist_gradient_boosting,1.77,Bassey,Fulham,DEF,4.5,25,5.3
+239,4.18,hist_gradient_boosting,1.77,Garner,Everton,MID,6.0,17,3.0
+200,4.16,hist_gradient_boosting,1.77,Lacroix,Chelsea,DEF,5.9,21,4.0
+64,4.14,hist_gradient_boosting,1.77,Smith,Bournemouth,DEF,4.5,10,2.7
+47,4.13,hist_gradient_boosting,1.77,Kamara,Aston Villa,MID,5.0,24,4.5
+86,4.12,hist_gradient_boosting,1.77,Lewis-Potter,Brentford,MID,5.5,33,5.5
+264,4.11,hist_gradient_boosting,1.77,Bobb,Fulham,MID,5.5,19,3.0
+16,4.09,hist_gradient_boosting,1.77,Madueke,Arsenal,MID,6.2,9,3.5
+124,4.05,hist_gradient_boosting,1.77,Groß,Brighton,MID,6.2,58,5.5
+332,4.05,hist_gradient_boosting,1.77,Justin,Leeds,DEF,4.5,34,5.3
+650,4.03,hist_gradient_boosting,1.77,Affengruber,Fulham,DEF,4.5,21,4.3
+452,4.0,hist_gradient_boosting,1.77,Bruno G.,Arsenal,MID,6.7,21,6.0
+43,3.99,hist_gradient_boosting,1.77,Tielemans,Man Utd,MID,5.7,24,4.7
+356,3.98,hist_gradient_boosting,1.77,Virgil,Liverpool,DEF,6.4,29,4.0
+183,3.97,hist_gradient_boosting,1.77,Rudoni,Coventry City,MID,4.9,26,6.5
+60,3.96,hist_gradient_boosting,1.77,Hill,Bournemouth,DEF,5.5,21,4.3
+116,3.96,hist_gradient_boosting,1.77,Dunk,Brighton,DEF,4.5,29,3.5
+201,3.9,hist_gradient_boosting,1.77,Muñoz,Nott'm Forest,DEF,5.3,8,1.5
+250,3.86,hist_gradient_boosting,1.77,Leno,Fulham,GK,4.5,26,3.7
+244,3.77,hist_gradient_boosting,1.77,Armstrong,Everton,MID,5.0,19,1.5
+304,3.77,hist_gradient_boosting,1.77,O'Shea,Ipswich Town,DEF,4.0,24,7.0
+512,3.75,hist_gradient_boosting,1.77,Kudus,Spurs,MID,6.5,16,4.5
+148,3.74,hist_gradient_boosting,1.77,Hato,Chelsea,DEF,4.5,19,5.5
+453,3.73,hist_gradient_boosting,1.77,Barnes,Newcastle,MID,6.1,32,2.0
+282,3.67,hist_gradient_boosting,1.77,Giles,Hull City,DEF,4.0,27,1.5
+558,3.66,hist_gradient_boosting,1.77,Schlager,Nott'm Forest,MID,5.0,19,3.0
+335,3.64,hist_gradient_boosting,1.77,Stach,Leeds,MID,6.0,31,3.0
+106,3.62,hist_gradient_boosting,1.77,Thiago,Brentford,FWD,7.8,18,4.0
+258,3.59,hist_gradient_boosting,1.77,Castagne,Fulham,DEF,4.5,28,3.0
+449,3.58,hist_gradient_boosting,1.77,Hall,Newcastle,DEF,5.3,35,2.0
+644,3.57,hist_gradient_boosting,1.77,Timber,Crystal Palace,MID,5.0,17,3.7
+572,3.51,hist_gradient_boosting,1.77,Tzolakis,Hull City,GK,4.7,39,2.5
+199,3.47,hist_gradient_boosting,1.77,Benitez,Crystal Palace,GK,4.5,12,3.3
+316,3.39,hist_gradient_boosting,1.77,Emersonn,Ipswich Town,FWD,5.6,30,2.0
+54,3.39,hist_gradient_boosting,1.77,Gomes,Aston Villa,MID,5.5,9,3.5
+15,3.37,hist_gradient_boosting,1.77,Ødegaard,Arsenal,MID,6.8,33,2.0
+45,3.37,hist_gradient_boosting,1.77,McGinn,Aston Villa,MID,5.4,28,5.5
+459,3.36,hist_gradient_boosting,1.77,L.Miley,Newcastle,MID,5.5,15,1.5
+417,3.34,hist_gradient_boosting,1.77,Dalot,Man Utd,DEF,4.8,12,2.0
+542,3.31,hist_gradient_boosting,1.77,E.Le Fée,Sunderland,MID,5.7,24,3.7
+91,3.29,hist_gradient_boosting,1.77,Pinnock,Coventry City,DEF,4.5,17,1.5
+389,3.29,hist_gradient_boosting,1.77,Matheus N.,Man City,DEF,5.9,19,3.0
+350,3.27,hist_gradient_boosting,1.77,A.Becker,Liverpool,GK,5.5,30,3.7
+328,3.24,hist_gradient_boosting,1.77,Struijk,Brighton,DEF,4.9,5,-1.0
+204,3.23,hist_gradient_boosting,1.77,Mitchell,Crystal Palace,DEF,4.5,28,3.7
+426,3.23,hist_gradient_boosting,1.77,B.Fernandes,Man Utd,MID,11.8,33,1.3
+32,3.22,hist_gradient_boosting,1.77,Cash,Aston Villa,DEF,4.4,14,4.0
+277,3.17,hist_gradient_boosting,1.77,Egan,Hull City,DEF,4.1,31,2.5
+366,3.16,hist_gradient_boosting,1.77,Wirtz,Liverpool,MID,7.2,25,4.3
+486,3.16,hist_gradient_boosting,1.77,McAtee,Nott'm Forest,MID,5.5,18,3.0
+194,3.16,hist_gradient_boosting,1.77,Thomas-Asante,Coventry City,FWD,5.0,19,5.0
+591,3.14,hist_gradient_boosting,1.77,Enciso,Ipswich Town,MID,5.5,19,2.0
+598,3.12,hist_gradient_boosting,1.77,Elvedi,Leeds,DEF,4.5,16,3.0
+112,3.1,hist_gradient_boosting,1.77,Van Hecke,Spurs,DEF,4.9,31,3.5
+12,3.09,hist_gradient_boosting,1.77,Saka,Arsenal,MID,9.6,37,2.5
+67,3.08,hist_gradient_boosting,1.77,Rayan,Bournemouth,MID,6.3,15,2.3
+336,3.06,hist_gradient_boosting,1.77,Okafor,Leeds,MID,5.8,22,2.3
+611,3.06,hist_gradient_boosting,1.77,Wan-Bissaka,Aston Villa,DEF,4.5,13,3.5
+209,3.06,hist_gradient_boosting,1.77,Johnson,Everton,MID,5.9,12,1.5
+268,3.05,hist_gradient_boosting,1.77,King,Fulham,MID,5.6,28,2.0
+455,3.03,hist_gradient_boosting,1.77,Tonali,Spurs,MID,5.3,25,5.5
+338,3.0,hist_gradient_boosting,1.77,Ampadu,Leeds,MID,5.4,23,2.3
+26,2.99,hist_gradient_boosting,1.77,Havertz,Arsenal,FWD,7.5,23,2.0
+165,2.98,hist_gradient_boosting,1.77,João Pedro,Chelsea,FWD,7.9,47,7.0
+110,2.94,hist_gradient_boosting,1.77,Rushworth,Coventry City,GK,4.5,20,2.0
+330,2.92,hist_gradient_boosting,1.77,Bogle,Leeds,DEF,4.7,45,2.7
+151,2.92,hist_gradient_boosting,1.77,Acheampong,Chelsea,DEF,4.5,14,4.5
+418,2.89,hist_gradient_boosting,1.77,Maguire,Man Utd,DEF,4.8,16,2.7
+155,2.88,hist_gradient_boosting,1.77,Enzo,Man City,MID,6.9,17,3.7
+210,2.87,hist_gradient_boosting,1.77,Wharton,Crystal Palace,MID,5.4,21,3.7
+522,2.87,hist_gradient_boosting,1.77,Gray,Spurs,MID,4.9,14,2.5
+237,2.87,hist_gradient_boosting,1.77,Ndiaye,Man City,MID,5.8,28,3.7
+639,2.86,hist_gradient_boosting,1.77,Andrés,Brighton,MID,5.5,17,2.5
+41,2.86,hist_gradient_boosting,1.77,Buendía,Aston Villa,MID,5.9,28,3.5
+154,2.85,hist_gradient_boosting,1.77,Palmer,Chelsea,MID,9.7,38,5.0
+385,2.83,hist_gradient_boosting,1.77,Trafford,Leeds,GK,5.0,32,4.7
+166,2.82,hist_gradient_boosting,1.77,N.Jackson,Aston Villa,FWD,6.6,21,5.5
+569,2.81,hist_gradient_boosting,1.77,Gonzalo,Fulham,FWD,6.1,18,2.0
+553,2.8,hist_gradient_boosting,1.77,Isidor,Sunderland,FWD,5.5,17,1.0
+40,2.8,hist_gradient_boosting,1.77,Rogers,Chelsea,MID,8.0,40,5.5
+580,2.77,hist_gradient_boosting,1.77,Charles,Fulham,MID,5.0,19,3.3
+536,2.77,hist_gradient_boosting,1.77,Reinildo,Sunderland,DEF,4.4,10,1.0
+214,2.77,hist_gradient_boosting,1.77,Kamada,Crystal Palace,MID,5.0,30,4.0
+398,2.76,hist_gradient_boosting,1.77,Foden,Man City,MID,6.8,18,3.0
+249,2.7,hist_gradient_boosting,1.77,Barry,Everton,FWD,5.7,28,4.0
+581,2.7,hist_gradient_boosting,1.77,Diomande,Nott'm Forest,DEF,5.4,10,1.5
+290,2.7,hist_gradient_boosting,1.77,Slater,Hull City,MID,4.5,18,1.5
+345,2.69,hist_gradient_boosting,1.77,Tanaka,Leeds,MID,4.9,17,1.7
+419,2.68,hist_gradient_boosting,1.77,Martinez,Man Utd,DEF,4.9,10,1.3
+534,2.68,hist_gradient_boosting,1.77,Hume,Sunderland,DEF,4.3,14,1.7
+82,2.67,hist_gradient_boosting,1.77,Kelleher,Brentford,GK,5.0,24,2.0
+167,2.66,hist_gradient_boosting,1.77,Delap,Nott'm Forest,FWD,5.5,13,2.0
+73,2.64,hist_gradient_boosting,1.77,Adams,Bournemouth,MID,5.0,16,2.7
+472,2.6,hist_gradient_boosting,1.77,Murillo,Nott'm Forest,DEF,5.5,27,2.0
+286,2.6,hist_gradient_boosting,1.77,Belloumi,Hull City,MID,5.2,39,4.0
+579,2.6,hist_gradient_boosting,1.77,Araujo,Liverpool,DEF,5.4,23,2.7
+358,2.59,hist_gradient_boosting,1.77,Kerkez,Liverpool,DEF,5.3,16,3.0
+529,2.58,hist_gradient_boosting,1.77,Roefs,Sunderland,GK,4.9,14,1.0
+238,2.58,hist_gradient_boosting,1.77,Grealish,Everton,MID,6.5,10,2.0
+390,2.58,hist_gradient_boosting,1.77,Rúben,Man City,DEF,5.5,24,2.7
+619,2.54,hist_gradient_boosting,1.77,Palacios,Ipswich Town,MID,5.0,16,2.5
+28,2.51,hist_gradient_boosting,1.77,Martinez,Chelsea,GK,5.0,20,5.5
+596,2.5,hist_gradient_boosting,1.77,Ruggeri,Aston Villa,DEF,4.5,6,0.5
+502,2.5,hist_gradient_boosting,1.77,Robertson,Spurs,DEF,4.4,22,2.5
+634,2.5,hist_gradient_boosting,1.77,Fernandez-Pardo,Newcastle,FWD,6.0,7,1.5
+564,2.49,hist_gradient_boosting,1.77,Scherpen,Ipswich Town,GK,4.5,7,0.0
+186,2.48,hist_gradient_boosting,1.77,Mason-Clark,Coventry City,MID,5.3,9,2.0
+567,2.47,hist_gradient_boosting,1.77,Horníček,Newcastle,GK,5.0,16,1.0
+88,2.47,hist_gradient_boosting,1.77,Kayode,Brentford,DEF,4.6,24,0.5
+397,2.46,hist_gradient_boosting,1.77,Semenyo,Man City,MID,8.3,37,7.0
+533,2.44,hist_gradient_boosting,1.77,Mukiele,Sunderland,DEF,5.4,19,2.0
+10,2.44,hist_gradient_boosting,1.77,White,Arsenal,DEF,5.4,32,5.5
+388,2.44,hist_gradient_boosting,1.77,Guéhi,Man City,DEF,6.0,37,3.7
+592,2.44,hist_gradient_boosting,1.77,Ouattara,Ipswich Town,DEF,4.0,19,6.5
+562,2.42,hist_gradient_boosting,1.77,Maeda,Ipswich Town,MID,5.3,17,4.5
+467,2.41,hist_gradient_boosting,1.77,Sels,Nott'm Forest,GK,5.0,18,2.0
+481,2.39,hist_gradient_boosting,1.77,Anderson,Man City,MID,6.3,22,3.0
+315,2.38,hist_gradient_boosting,1.77,Fatawu,Ipswich Town,MID,5.4,12,2.0
+313,2.35,hist_gradient_boosting,1.77,Clarke,Ipswich Town,MID,5.3,16,2.5
+101,2.34,hist_gradient_boosting,1.77,Henderson,Chelsea,MID,4.9,23,10.5
+5,2.33,hist_gradient_boosting,1.77,J.Timber,Arsenal,DEF,6.5,3,1.0
+173,2.32,hist_gradient_boosting,1.77,Thomas,Coventry City,DEF,4.0,31,3.5
+432,2.31,hist_gradient_boosting,1.77,Mainoo,Man Utd,MID,5.5,26,2.7
+331,2.3,hist_gradient_boosting,1.77,Gudmundsson,Leeds,DEF,4.5,19,3.7
+387,2.29,hist_gradient_boosting,1.77,O'Reilly,Man City,DEF,6.3,13,2.7
+69,2.29,hist_gradient_boosting,1.77,Scott,Bournemouth,MID,6.0,30,0.7
+202,2.28,hist_gradient_boosting,1.77,Richards,Crystal Palace,DEF,4.9,20,4.7
+496,2.27,hist_gradient_boosting,1.77,Kinsky,Spurs,GK,4.5,23,2.5
+145,2.26,hist_gradient_boosting,1.77,Fofana,Chelsea,DEF,5.0,8,0.0
+75,2.24,hist_gradient_boosting,1.77,Christie,Bournemouth,MID,5.0,10,2.3
+236,2.24,hist_gradient_boosting,1.77,Dewsbury-Hall,Everton,MID,6.6,35,7.5
+656,2.23,hist_gradient_boosting,1.77,Mfuni,Coventry City,DEF,4.0,13,3.5
+545,2.22,hist_gradient_boosting,1.77,Sadiki,Sunderland,MID,4.8,15,2.3
+445,2.21,hist_gradient_boosting,1.77,Thiaw,Newcastle,DEF,5.0,15,0.5
+412,2.21,hist_gradient_boosting,1.77,Lammens,Man Utd,GK,4.9,16,3.0
+541,2.2,hist_gradient_boosting,1.77,Meunier,Sunderland,DEF,4.5,15,1.3
+557,2.18,hist_gradient_boosting,1.77,Tzolis,Arsenal,MID,6.2,16,0.0
+399,2.17,hist_gradient_boosting,1.77,Cherki,Man City,MID,8.0,44,6.0
+551,2.17,hist_gradient_boosting,1.77,N.Angulo,Sunderland,MID,5.0,18,2.0
+300,2.17,hist_gradient_boosting,1.77,Walton,Ipswich Town,GK,4.4,6,2.0
+525,2.17,hist_gradient_boosting,1.77,Fernandes,Spurs,MID,5.7,9,1.0
+20,2.16,hist_gradient_boosting,1.77,Dowman,Arsenal,MID,5.3,1,0.0
+368,2.15,hist_gradient_boosting,1.77,Szoboszlai,Liverpool,MID,6.8,21,1.0
+259,2.13,hist_gradient_boosting,1.77,Diop,Ipswich Town,DEF,3.9,17,2.5
+464,2.13,hist_gradient_boosting,1.77,Wissa,Newcastle,FWD,6.1,18,1.5
+544,2.1,hist_gradient_boosting,1.77,Xhaka,Sunderland,MID,5.4,25,2.0
+633,2.04,hist_gradient_boosting,1.77,Ahanor,Crystal Palace,DEF,4.5,3,0.0
+222,2.04,hist_gradient_boosting,1.77,Strand Larsen,Crystal Palace,FWD,6.0,21,3.0
+469,2.01,hist_gradient_boosting,1.77,N.Williams,Nott'm Forest,DEF,5.0,23,2.0
+575,2.01,hist_gradient_boosting,1.77,Yirenkyi,Coventry City,MID,4.8,13,2.0
+403,1.99,hist_gradient_boosting,1.77,Sávio,Spurs,MID,6.5,10,1.0
+483,1.98,hist_gradient_boosting,1.77,Ndoye,Nott'm Forest,MID,5.5,25,5.0
+503,1.98,hist_gradient_boosting,1.77,Van de Ven,Spurs,DEF,5.0,19,1.5
+230,1.97,hist_gradient_boosting,1.77,Branthwaite,Everton,DEF,5.5,31,2.0
+90,1.93,hist_gradient_boosting,1.77,Hickey,Brentford,DEF,4.5,7,1.0
+211,1.92,hist_gradient_boosting,1.77,Yeremy,Crystal Palace,MID,5.5,25,4.3
+588,1.87,hist_gradient_boosting,1.77,Khalaili,Crystal Palace,DEF,5.0,21,2.7
+233,1.87,hist_gradient_boosting,1.77,Mykolenko,Everton,DEF,4.6,28,0.5
+321,1.86,hist_gradient_boosting,1.77,Walle Egeli,Ipswich Town,FWD,4.5,2,0.5
+25,1.85,hist_gradient_boosting,1.77,Gyökeres,Arsenal,FWD,7.1,4,1.0
+460,1.82,hist_gradient_boosting,1.77,Willock,Newcastle,MID,5.0,24,1.0
+295,1.82,hist_gradient_boosting,1.77,McBurnie,Hull City,FWD,5.5,16,1.5
+372,1.8,hist_gradient_boosting,1.77,Mac Allister,Liverpool,MID,5.4,14,2.7
+565,1.79,hist_gradient_boosting,1.77,M.Sangaré,Brentford,MID,5.5,24,1.0
+599,1.79,hist_gradient_boosting,1.77,Cherif,Coventry City,FWD,5.0,14,6.5
+104,1.78,hist_gradient_boosting,1.77,Onyeka,Coventry City,MID,4.8,11,1.0
+516,1.78,hist_gradient_boosting,1.77,Bentancur,Spurs,MID,5.4,13,-1.0
+98,1.76,hist_gradient_boosting,1.77,Janelt,Brentford,MID,5.0,30,1.0
+51,1.75,hist_gradient_boosting,1.77,George Hemmings,Aston Villa,MID,4.5,9,0.0
+640,1.74,hist_gradient_boosting,1.77,Flemming,Ipswich Town,FWD,5.5,12,3.0
+175,1.74,hist_gradient_boosting,1.77,van Ewijk,Coventry City,DEF,3.9,13,3.5
+642,1.73,hist_gradient_boosting,1.77,Thomas,Hull City,MID,5.5,13,4.5
+620,1.69,hist_gradient_boosting,1.77,Diouf,Brentford,DEF,4.5,4,1.0
+515,1.66,hist_gradient_boosting,1.77,Maddison,Spurs,MID,6.2,13,5.0
+384,1.65,hist_gradient_boosting,1.77,Donnarumma,Man City,GK,5.5,29,4.0
+105,1.63,hist_gradient_boosting,1.77,Anthony,Brentford,MID,5.9,22,3.5
+612,1.63,hist_gradient_boosting,1.77,Methalie,Sunderland,DEF,4.5,0,0.0
+593,1.61,hist_gradient_boosting,1.77,Dedić,Newcastle,DEF,4.5,13,0.0
+226,1.59,hist_gradient_boosting,1.77,Pickford,Everton,GK,5.5,28,1.5
+646,1.57,hist_gradient_boosting,1.77,Fofana,Sunderland,MID,5.5,4,0.7
+70,1.56,hist_gradient_boosting,1.77,Kluivert,Bournemouth,MID,5.9,16,0.3
+203,1.56,hist_gradient_boosting,1.77,Canvot,Crystal Palace,DEF,4.8,12,3.3
+161,1.55,hist_gradient_boosting,1.77,Lavia,Chelsea,MID,5.0,13,1.0
+431,1.55,hist_gradient_boosting,1.77,Amad,Man Utd,MID,5.7,3,1.0
+381,1.51,hist_gradient_boosting,1.77,Koumas,Liverpool,MID,5.0,6,1.3
+263,1.5,hist_gradient_boosting,1.77,Kevin,Fulham,MID,5.3,5,0.7
+74,1.48,hist_gradient_boosting,1.77,Brooks,Bournemouth,MID,5.0,4,0.7
+320,1.48,hist_gradient_boosting,1.77,Akpom,Ipswich Town,FWD,5.0,9,1.0
+119,1.48,hist_gradient_boosting,1.77,Costinha,Brighton,DEF,4.5,5,0.5
+519,1.45,hist_gradient_boosting,1.77,Gallagher,Spurs,MID,5.3,13,2.0
+405,1.44,hist_gradient_boosting,1.77,N.Gonzalez,Newcastle,MID,5.5,15,5.0
+46,1.44,hist_gradient_boosting,1.77,Barkley,Aston Villa,MID,5.0,12,1.0
+267,1.44,hist_gradient_boosting,1.77,Lukić,Ipswich Town,MID,4.9,15,2.0
+583,1.43,hist_gradient_boosting,1.77,Chavarria,Chelsea,DEF,4.9,10,2.5
+498,1.42,hist_gradient_boosting,1.77,Senesi,Spurs,DEF,5.7,5,1.0
+94,1.42,hist_gradient_boosting,1.77,Schade,Brentford,MID,6.2,40,0.5
+473,1.41,hist_gradient_boosting,1.77,Aina,Nott'm Forest,DEF,4.3,8,0.0
+462,1.4,hist_gradient_boosting,1.77,Steur,Newcastle,MID,4.8,8,0.0
+439,1.4,hist_gradient_boosting,1.77,Šeško,Man Utd,FWD,6.9,8,0.0
+72,1.39,hist_gradient_boosting,1.77,Gannon-Doak,Bournemouth,MID,4.8,6,1.0
+184,1.39,hist_gradient_boosting,1.77,Grimes,Coventry City,MID,4.8,15,2.0
+318,1.38,hist_gradient_boosting,1.77,Philogene,Ipswich Town,MID,5.4,4,1.0
+490,1.38,hist_gradient_boosting,1.77,Wood,Nott'm Forest,FWD,5.7,6,1.0
+616,1.36,hist_gradient_boosting,1.77,Bouaddi,Man City,MID,5.5,4,0.7
+95,1.35,hist_gradient_boosting,1.77,O.Dango,Brentford,MID,6.2,9,1.0
+242,1.35,hist_gradient_boosting,1.77,George,Everton,MID,5.5,21,1.0
+420,1.35,hist_gradient_boosting,1.77,Yoro,Man Utd,DEF,4.8,9,2.3
+488,1.34,hist_gradient_boosting,1.77,I.Sangaré,Nott'm Forest,MID,4.8,6,1.0
+532,1.32,hist_gradient_boosting,1.77,Ballard,Sunderland,DEF,4.8,14,0.7
+253,1.32,hist_gradient_boosting,1.77,Andersen,Fulham,DEF,5.0,3,0.3
+423,1.31,hist_gradient_boosting,1.77,Shaw,Man Utd,DEF,4.3,12,1.7
+520,1.28,hist_gradient_boosting,1.77,Bergvall,Spurs,MID,5.3,6,1.5
+182,1.27,hist_gradient_boosting,1.77,Amenda,Coventry City,DEF,3.9,4,0.0
+617,1.27,hist_gradient_boosting,1.77,Cho,Hull City,MID,5.0,9,0.0
+367,1.27,hist_gradient_boosting,1.77,Gakpo,Liverpool,MID,7.1,32,1.0
+247,1.26,hist_gradient_boosting,1.77,Hackney,Everton,MID,5.4,11,0.5
+371,1.23,hist_gradient_boosting,1.77,Gravenberch,Liverpool,MID,5.8,8,0.0
+552,1.23,hist_gradient_boosting,1.77,Brobbey,Sunderland,FWD,5.7,24,5.7
+279,1.21,hist_gradient_boosting,1.77,Ajayi,Hull City,DEF,4.2,30,1.5
+240,1.21,hist_gradient_boosting,1.77,Iroegbunam,Hull City,MID,5.0,4,1.0
+631,1.21,hist_gradient_boosting,1.77,Mbaye,Aston Villa,MID,6.0,4,1.0
+571,1.19,hist_gradient_boosting,1.77,Florentino,Ipswich Town,MID,4.8,6,2.0
+7,1.18,hist_gradient_boosting,1.77,Lewis-Skelly,Arsenal,MID,5.4,11,1.0
+71,1.18,hist_gradient_boosting,1.77,Cook,Bournemouth,MID,5.0,11,1.3
+280,1.17,hist_gradient_boosting,1.77,Coyle,Hull City,DEF,4.0,17,1.5
+461,1.16,hist_gradient_boosting,1.77,Touré,Newcastle,MID,5.7,10,1.0
+306,1.16,hist_gradient_boosting,1.77,Greaves,Ipswich Town,DEF,3.9,4,0.5
+125,1.15,hist_gradient_boosting,1.77,Georginio,Brighton,FWD,5.3,11,2.5
+126,1.14,hist_gradient_boosting,1.77,O'Riley,Brighton,MID,5.4,2,0.0
+428,1.14,hist_gradient_boosting,1.77,Cunha,Man Utd,MID,7.9,37,7.0
+514,1.11,hist_gradient_boosting,1.77,Tel,Spurs,MID,5.6,9,0.5
+29,1.1,hist_gradient_boosting,1.77,M.Bizot,Aston Villa,GK,4.5,1,0.0
+36,1.09,hist_gradient_boosting,1.77,Maatsen,Aston Villa,DEF,4.4,9,0.0
+213,1.09,hist_gradient_boosting,1.77,Lerma,Crystal Palace,MID,4.8,10,3.0
+56,1.09,hist_gradient_boosting,1.77,Abraham,Aston Villa,FWD,5.5,4,0.0
+260,1.06,hist_gradient_boosting,1.77,Wilson,Leeds,MID,6.2,6,0.3
+635,1.06,hist_gradient_boosting,1.77,Larsson,Fulham,MID,5.0,4,0.7
+231,1.06,hist_gradient_boosting,1.77,Keane,Everton,DEF,4.7,1,0.5
+614,1.06,hist_gradient_boosting,1.77,Hadjam,Brighton,DEF,4.5,8,4.0
+159,1.06,hist_gradient_boosting,1.77,Caicedo,Chelsea,MID,5.3,6,2.5
+662,1.06,hist_gradient_boosting,1.77,Nicoll-Jazuli,Chelsea,MID,4.5,1,0.0
+570,1.06,hist_gradient_boosting,1.77,Palacios,Fulham,MID,5.4,13,0.7
+14,1.05,hist_gradient_boosting,1.77,Eze,Arsenal,MID,6.2,5,0.5
+391,1.03,hist_gradient_boosting,1.77,Gvardiol,Man City,DEF,5.8,41,2.7
+17,1.03,hist_gradient_boosting,1.77,Merino,Arsenal,MID,5.7,6,1.0
+337,1.02,hist_gradient_boosting,1.77,Aaronson,Leeds,MID,5.3,8,0.7
+195,1.02,hist_gradient_boosting,1.77,Simms,Coventry City,FWD,4.9,10,3.0
+501,1.01,hist_gradient_boosting,1.77,Danso,Sunderland,DEF,5.0,1,-0.7
+568,1.0,hist_gradient_boosting,1.77,Barco,Chelsea,MID,5.4,3,0.0
+430,1.0,hist_gradient_boosting,1.77,Mount,Man Utd,MID,5.4,2,0.7
+157,0.98,hist_gradient_boosting,1.77,Estêvão,Chelsea,MID,6.3,5,0.5
+457,0.98,hist_gradient_boosting,1.77,J.Murphy,Newcastle,MID,5.9,4,0.5
+641,0.97,hist_gradient_boosting,1.77,Bard,Leeds,DEF,4.5,1,0.0
+256,0.97,hist_gradient_boosting,1.77,Tete,Fulham,DEF,4.4,1,0.3
+19,0.97,hist_gradient_boosting,1.77,Zubimendi,Arsenal,MID,5.2,5,0.0
+100,0.95,hist_gradient_boosting,1.77,Carvalho,Brentford,MID,5.0,6,0.0
+136,0.95,hist_gradient_boosting,1.77,Welbeck,Chelsea,FWD,5.8,6,1.0
+142,0.95,hist_gradient_boosting,1.77,James,Chelsea,DEF,5.3,3,0.0
+97,0.95,hist_gradient_boosting,1.77,Jensen,Brentford,MID,5.4,8,1.0
+81,0.94,hist_gradient_boosting,1.77,Rodríguez,Bournemouth,FWD,6.0,4,0.7
+190,0.93,hist_gradient_boosting,1.77,Tchaouna,Coventry City,MID,5.3,5,0.0
+340,0.92,hist_gradient_boosting,1.77,Gelhardt,Hull City,MID,5.0,10,4.5
+577,0.92,hist_gradient_boosting,1.77,Tomiyasu,Crystal Palace,DEF,4.4,3,0.3
+492,0.91,hist_gradient_boosting,1.77,Awoniyi,Coventry City,FWD,5.4,4,0.5
+375,0.91,hist_gradient_boosting,1.77,Nyoni,Liverpool,MID,4.8,5,1.0
+271,0.91,hist_gradient_boosting,1.77,Muniz,Fulham,FWD,5.4,4,0.3
+651,0.9,hist_gradient_boosting,1.77,J.Angulo,Sunderland,FWD,4.5,1,0.3
+613,0.9,hist_gradient_boosting,1.77,Ahoka,Sunderland,MID,4.5,1,0.3
+636,0.9,hist_gradient_boosting,1.77,Ángel,Fulham,MID,5.0,0,0.0
+289,0.88,hist_gradient_boosting,1.77,Crooks,Hull City,MID,4.4,6,1.5
+637,0.88,hist_gradient_boosting,1.77,Vaz,Hull City,FWD,5.0,4,1.0
+96,0.87,hist_gradient_boosting,1.77,Damsgaard,Brentford,MID,5.3,17,0.5
+327,0.87,hist_gradient_boosting,1.77,Bijol,Leeds,DEF,5.0,13,0.3
+223,0.86,hist_gradient_boosting,1.77,Mateta,Crystal Palace,FWD,6.3,3,0.3
+463,0.85,hist_gradient_boosting,1.77,Woltemade,Newcastle,FWD,5.9,4,0.0
+454,0.84,hist_gradient_boosting,1.77,Elanga,Newcastle,MID,6.0,18,0.0
+305,0.84,hist_gradient_boosting,1.77,Davis,Ipswich Town,DEF,4.0,26,0.5
+594,0.83,hist_gradient_boosting,1.77,David,Brighton,FWD,5.9,1,0.0
+198,0.83,hist_gradient_boosting,1.77,Henderson,Crystal Palace,GK,4.9,5,0.0
+415,0.83,hist_gradient_boosting,1.77,Dorgu,Man Utd,MID,5.7,10,1.3
+245,0.83,hist_gradient_boosting,1.77,Dibling,Everton,MID,5.3,2,0.5
+208,0.82,hist_gradient_boosting,1.77,Sarr,Crystal Palace,MID,6.2,2,0.7
+628,0.8,hist_gradient_boosting,1.77,Allan,Man City,MID,6.0,1,0.3
+11,0.8,hist_gradient_boosting,1.77,Mosquera,Arsenal,DEF,5.2,12,0.0
+120,0.79,hist_gradient_boosting,1.77,Svoboda,Brighton,DEF,5.0,2,0.5
+224,0.79,hist_gradient_boosting,1.77,Nketiah,Crystal Palace,FWD,5.4,10,1.0
+393,0.79,hist_gradient_boosting,1.77,Khusanov,Man City,DEF,5.3,10,0.3
+176,0.79,hist_gradient_boosting,1.77,Dasilva,Coventry City,DEF,4.0,25,2.5
+450,0.79,hist_gradient_boosting,1.77,Livramento,Newcastle,DEF,4.9,4,0.0
+482,0.78,hist_gradient_boosting,1.77,Hudson-Odoi,Nott'm Forest,MID,5.8,3,1.0
+458,0.75,hist_gradient_boosting,1.77,Joelinton,Newcastle,MID,5.4,1,0.5
+550,0.75,hist_gradient_boosting,1.77,Jocelin.T,Sunderland,MID,4.9,1,0.3
+123,0.75,hist_gradient_boosting,1.77,Hinshelwood,Brighton,MID,5.9,22,3.0
+131,0.74,hist_gradient_boosting,1.77,Baleba,Man Utd,MID,4.9,5,1.7
+521,0.74,hist_gradient_boosting,1.77,Kulusevski,Spurs,MID,6.5,1,0.5
+212,0.73,hist_gradient_boosting,1.77,Hughes,Crystal Palace,MID,4.4,3,0.3
+523,0.72,hist_gradient_boosting,1.77,Moore,Spurs,MID,5.0,3,0.0
+446,0.72,hist_gradient_boosting,1.77,Schär,Newcastle,DEF,4.9,2,0.0
+52,0.72,hist_gradient_boosting,1.77,Alysson,Aston Villa,MID,4.9,9,0.5
+440,0.71,hist_gradient_boosting,1.77,Zirkzee,Man Utd,FWD,5.3,3,0.7
+586,0.71,hist_gradient_boosting,1.77,Mendy,Hull City,DEF,4.1,28,1.5
+144,0.7,hist_gradient_boosting,1.77,Gusto,Chelsea,DEF,4.9,5,0.5
+262,0.7,hist_gradient_boosting,1.77,Smith Rowe,Fulham,MID,5.3,3,0.0
+608,0.7,hist_gradient_boosting,1.77,Jebbison,Bournemouth,FWD,5.0,3,0.3
+42,0.7,hist_gradient_boosting,1.77,Guessand,Crystal Palace,MID,5.4,2,0.0
+369,0.68,hist_gradient_boosting,1.77,Ngumoha,Liverpool,MID,5.7,6,0.7
+241,0.68,hist_gradient_boosting,1.77,McNeil,Crystal Palace,MID,5.3,5,0.7
+539,0.68,hist_gradient_boosting,1.77,O'Nien,Sunderland,DEF,3.9,2,0.3
+347,0.68,hist_gradient_boosting,1.77,Nmecha,Leeds,FWD,5.4,9,1.0
+647,0.67,hist_gradient_boosting,1.77,Osorio,Crystal Palace,MID,5.4,1,0.0
+576,0.66,hist_gradient_boosting,1.77,Stroud,Hull City,MID,4.9,11,2.0
+152,0.66,hist_gradient_boosting,1.77,Palestra,Chelsea,DEF,5.3,2,1.0
+508,0.65,hist_gradient_boosting,1.77,Davies,Spurs,DEF,3.9,7,3.5
+287,0.64,hist_gradient_boosting,1.77,Millar,Hull City,MID,5.0,6,0.0
+364,0.64,hist_gradient_boosting,1.77,Tsimikas,Liverpool,DEF,4.9,2,0.0
+493,0.62,hist_gradient_boosting,1.77,Kalimuendo,Nott'm Forest,FWD,5.4,3,1.0
+618,0.62,hist_gradient_boosting,1.77,Goretzka,Aston Villa,MID,5.9,1,0.5
+160,0.62,hist_gradient_boosting,1.77,Garnacho,Aston Villa,MID,5.7,3,0.0
+605,0.62,hist_gradient_boosting,1.77,Yalcouyé,Brighton,MID,4.5,22,1.0
+102,0.61,hist_gradient_boosting,1.77,Yarmoliuk,Brentford,MID,4.8,15,3.0
+600,0.61,hist_gradient_boosting,1.77,Osman,Brighton,MID,4.9,3,0.0
+527,0.61,hist_gradient_boosting,1.77,Richarlison,Spurs,FWD,5.9,2,0.0
+585,0.6,hist_gradient_boosting,1.77,Herrington,Hull City,DEF,4.0,5,0.0
+491,0.6,hist_gradient_boosting,1.77,Igor Jesus,Nott'm Forest,FWD,5.7,12,0.0
+357,0.59,hist_gradient_boosting,1.77,Frimpong,Liverpool,DEF,5.2,4,0.7
+506,0.59,hist_gradient_boosting,1.77,Udogie,Spurs,DEF,4.4,9,1.0
+406,0.59,hist_gradient_boosting,1.77,Kovačić,Man City,MID,5.3,7,1.7
+130,0.59,hist_gradient_boosting,1.77,Wieffer,Brighton,DEF,4.8,7,0.0
+465,0.58,hist_gradient_boosting,1.77,Osula,Newcastle,FWD,5.8,5,0.5
+589,0.58,hist_gradient_boosting,1.77,Gourna-Douath,Hull City,MID,4.9,4,0.0
+9,0.57,hist_gradient_boosting,1.77,Hincapie,Arsenal,DEF,5.2,3,0.5
+185,0.56,hist_gradient_boosting,1.77,Sakamoto,Coventry City,MID,4.8,4,1.5
+188,0.56,hist_gradient_boosting,1.77,Torp,Coventry City,MID,5.3,4,0.5
+309,0.55,hist_gradient_boosting,1.77,Núñez,Ipswich Town,MID,4.8,6,0.0
+140,0.55,hist_gradient_boosting,1.77,Sánchez,Chelsea,GK,4.9,2,0.0
+480,0.55,hist_gradient_boosting,1.77,Gibbs-White,Nott'm Forest,MID,7.9,30,1.0
+578,0.55,hist_gradient_boosting,1.77,Mudryk,Spurs,MID,5.3,1,0.0
+584,0.54,hist_gradient_boosting,1.77,Hamer,Coventry City,MID,5.3,4,0.5
+162,0.54,hist_gradient_boosting,1.77,Andrey Santos,Man Utd,MID,4.7,5,0.3
+266,0.53,hist_gradient_boosting,1.77,Cairney,Fulham,MID,4.9,1,0.3
+108,0.51,hist_gradient_boosting,1.77,Wilson,Brentford,FWD,5.4,3,0.0
+246,0.51,hist_gradient_boosting,1.77,Röhl,Everton,MID,4.9,8,1.0
+153,0.5,hist_gradient_boosting,1.77,Disasi,Crystal Palace,DEF,4.4,1,0.0
+448,0.5,hist_gradient_boosting,1.77,Burn,Newcastle,DEF,4.8,2,1.0
+255,0.5,hist_gradient_boosting,1.77,J.Cuenca,Fulham,DEF,4.4,3,0.0
+177,0.49,hist_gradient_boosting,1.77,Kesler-Hayden,Coventry City,DEF,3.9,1,0.5
+595,0.49,hist_gradient_boosting,1.77,Gozo,Crystal Palace,MID,4.9,2,0.0
+84,0.48,hist_gradient_boosting,1.77,Collins,Brentford,DEF,5.4,10,0.0
+34,0.47,hist_gradient_boosting,1.77,Pau,Aston Villa,DEF,4.4,4,0.5
+248,0.45,hist_gradient_boosting,1.77,Beto,Everton,FWD,5.4,2,0.0
+563,0.43,hist_gradient_boosting,1.77,Morita,Hull City,MID,4.9,3,1.0
+229,0.42,hist_gradient_boosting,1.77,Tarkowski,Everton,DEF,6.2,46,1.5
+62,0.42,hist_gradient_boosting,1.77,Diakité,Bournemouth,DEF,4.9,1,0.3
+474,0.42,hist_gradient_boosting,1.77,Jair Cunha,Nott'm Forest,DEF,4.4,13,1.0
+471,0.41,hist_gradient_boosting,1.77,Milenković,Nott'm Forest,DEF,5.4,12,0.0
+164,0.41,hist_gradient_boosting,1.77,Quenda,Chelsea,MID,5.3,3,0.5
+207,0.4,hist_gradient_boosting,1.77,Mingueza,Crystal Palace,DEF,4.3,2,0.0
+310,0.4,hist_gradient_boosting,1.77,Matusiwa,Ipswich Town,MID,4.9,1,0.5
+76,0.39,hist_gradient_boosting,1.77,Tóth.A,Bournemouth,MID,4.9,2,0.3
+77,0.39,hist_gradient_boosting,1.77,Adli,Bournemouth,MID,4.8,1,0.3
+85,0.39,hist_gradient_boosting,1.77,Van den Berg,Brentford,DEF,4.9,1,0.5
+487,0.39,hist_gradient_boosting,1.77,Dominguez,Nott'm Forest,MID,4.8,4,1.5
+559,0.37,hist_gradient_boosting,1.77,Bamba,Newcastle,MID,4.8,3,0.0
+478,0.36,hist_gradient_boosting,1.77,Netz,Nott'm Forest,DEF,4.4,3,0.0
+232,0.36,hist_gradient_boosting,1.77,O'Brien,Everton,DEF,4.8,3,0.5
+135,0.36,hist_gradient_boosting,1.77,Yohanna,Brighton,MID,4.8,1,0.0
+147,0.36,hist_gradient_boosting,1.77,Tosin,Spurs,DEF,4.4,3,1.0
+435,0.35,hist_gradient_boosting,1.77,Lacey,Man Utd,MID,4.9,1,0.0
+622,0.35,hist_gradient_boosting,1.77,Braithwaite,Man City,DEF,3.9,1,0.0
+543,0.35,hist_gradient_boosting,1.77,Diarra,Sunderland,MID,5.3,6,0.3
+422,0.35,hist_gradient_boosting,1.77,Mazraoui,Man Utd,DEF,4.3,6,1.0
+549,0.35,hist_gradient_boosting,1.77,Talbi,Sunderland,MID,5.3,1,0.0
+395,0.34,hist_gradient_boosting,1.77,Lewis,Man City,DEF,4.3,1,0.0
+456,0.34,hist_gradient_boosting,1.77,J.Ramsey,Newcastle,MID,4.8,7,0.0
+308,0.33,hist_gradient_boosting,1.77,Furlong,Ipswich Town,DEF,3.9,1,0.0
+560,0.33,hist_gradient_boosting,1.77,Penders,Chelsea,GK,4.4,1,0.5
+21,0.32,hist_gradient_boosting,1.77,Nørgaard,Everton,MID,4.8,0,0.0
+574,0.32,hist_gradient_boosting,1.77,Hjertø-Dahl,Hull City,MID,4.8,1,0.0
+370,0.31,hist_gradient_boosting,1.77,Chiesa,Liverpool,MID,5.3,1,0.3
+396,0.31,hist_gradient_boosting,1.77,Vitor Reis,Man City,DEF,4.4,1,0.0
+429,0.31,hist_gradient_boosting,1.77,Rashford,Man Utd,MID,6.9,11,1.0
+206,0.3,hist_gradient_boosting,1.77,Chadi Riad,Crystal Palace,DEF,4.3,1,0.0
+35,0.29,hist_gradient_boosting,1.77,Bogarde,Aston Villa,MID,4.9,1,0.0
+285,0.28,hist_gradient_boosting,1.77,McNair,Hull City,DEF,4.0,1,0.0
+339,0.28,hist_gradient_boosting,1.77,Longstaff,Leeds,MID,4.8,3,0.3
+179,0.27,hist_gradient_boosting,1.77,Latibeaudiere,Coventry City,DEF,3.9,1,0.0
+359,0.26,hist_gradient_boosting,1.77,Gomez,Liverpool,DEF,4.9,2,0.7
+421,0.26,hist_gradient_boosting,1.77,Heaven,Man Utd,DEF,4.3,2,0.3
+648,0.25,hist_gradient_boosting,1.77,Bahoya,Leeds,MID,4.9,2,0.7
+638,0.24,hist_gradient_boosting,1.77,Norton-Cuffy,Hull City,DEF,3.9,3,1.0
+329,0.24,hist_gradient_boosting,1.77,Rodon,Leeds,DEF,4.3,7,0.0
+66,0.24,hist_gradient_boosting,1.77,Soler,Bournemouth,DEF,4.0,1,0.3
+547,0.23,hist_gradient_boosting,1.77,Mundle,Sunderland,MID,4.8,1,0.0
+281,0.23,hist_gradient_boosting,1.77,Drameh,Hull City,DEF,4.0,2,0.0
+548,0.23,hist_gradient_boosting,1.77,Rigg,Sunderland,MID,4.8,3,0.3
+535,0.22,hist_gradient_boosting,1.77,Alderete,Sunderland,DEF,4.8,0,-0.3
+621,0.22,hist_gradient_boosting,1.77,McAidoo,Man City,MID,4.4,2,0.0
+343,0.2,hist_gradient_boosting,1.77,James,Leeds,MID,4.9,3,0.3
+556,0.2,hist_gradient_boosting,1.77,Targett,Hull City,DEF,3.9,1,0.0
+499,0.2,hist_gradient_boosting,1.77,Pedro Porro,Spurs,DEF,5.3,9,0.0
+323,0.18,hist_gradient_boosting,1.77,McAteer,Ipswich Town,MID,4.4,3,0.0
+573,0.15,hist_gradient_boosting,1.77,Sanchez,Bournemouth,DEF,4.4,1,0.3
+643,0.15,hist_gradient_boosting,1.77,Chilwell,Crystal Palace,DEF,4.4,8,0.0
+243,0.14,hist_gradient_boosting,1.77,Alcaraz,Everton,MID,4.8,2,0.5
+89,0.11,hist_gradient_boosting,1.77,Henry,Brentford,DEF,4.4,1,0.0
+649,0.03,hist_gradient_boosting,1.77,Maitland-Niles,Everton,DEF,4.5,26,2.5
+269,-0.56,hist_gradient_boosting,1.77,Sessegnon,Fulham,DEF,4.3,8,1.7
+93,-0.64,hist_gradient_boosting,1.77,Schuster,Brentford,DEF,4.5,22,0.5
